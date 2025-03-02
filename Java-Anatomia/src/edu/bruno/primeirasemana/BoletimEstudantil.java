@@ -1,5 +1,7 @@
 // Anatomia das Classes - 4 - Identação
 
+package edu.bruno.primeirasemana;
+
 public class BoletimEstudantil {
     // Exemplo do método sem identação
     /* public static void main(String[] args) {
