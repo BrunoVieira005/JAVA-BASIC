@@ -10,6 +10,10 @@ Os conteúdos abordados envolvem:
 
 ✔ Controle de fluxo (if/else, switch, loops);
 
+✔ Tratamento de Exceções;
+
+✔ POO (Encapsulamento, Herança, Abstração, Polimorfismo) e Interfaces;
+
 ✔ Manipulação de arquivos localmente e versionamento de código;
 
 ✔ Exercícios práticos e desafios;
